@@ -10,10 +10,12 @@ website:
         text: Home
       - href: projects.qmd
         text: Projects and Publications
+      - href: media/Resume_JoseNino.pdf
+        text: CV
 
 format:
   html:
-    theme: cosmo
+    theme: journal
     css: styles.css
     toc: true
 
